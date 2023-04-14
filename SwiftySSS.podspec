@@ -15,7 +15,7 @@ A swift implementation of Shamir's Secret Sharing over GF(2^8).
   spec.ios.deployment_target = "10.0"
   spec.swift_version = "5.0"
 
-  spec.source        = { :git => "https://github.com/pixelplex-mobile/SwiftySSS.git", :tag => "#{spec.version}" }
+  spec.source        = { :git => "https://github.com/liukunvs/SwiftySSS.git", :tag => "#{spec.version}" }
   spec.source_files  = "SwiftySSS/**/*.{h,m,swift}"
 
 end
